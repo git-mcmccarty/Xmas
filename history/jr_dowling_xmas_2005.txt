@@ -1,0 +1,10 @@
+Kenzie 	has 	Josie
+Avery 	has 	Gracie
+Josie 	has 	Abbey
+Zeke 	has 	Aiden
+Luke 	has 	Avery
+Cole 	has 	Jacob
+Abbey 	has 	Kenzie
+Jacob 	has 	Cole
+Gracie 	has 	Zeke
+Aiden 	has 	Luke

@@ -1,0 +1,15 @@
+Kenzie 	has 	Gracie
+Avery 	has 	Luke
+Josie 	has 	Kenzie
+Zeke 	has 	Gabby
+Luke 	has 	Cole
+Gabe 	has 	Avery
+Cole 	has 	Gabe
+Gabby 	has 	Lane
+Abbey 	has 	Zeke
+Jacob 	has 	Cash
+Gracie 	has 	Merrick
+Lane 	has 	Josie
+Aiden 	has 	Abbey
+Merrick 	has 	Jacob
+Cash 	has 	Aiden

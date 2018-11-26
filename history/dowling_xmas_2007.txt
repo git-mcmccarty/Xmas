@@ -1,0 +1,15 @@
+Jim 	has 	Mike
+Marian 	has 	Matt
+Dave 	has 	Gina
+Kim 	has 	Jason
+Lisa 	has 	Dave
+Mike 	has 	Heidi
+Matt 	has 	Ryan
+Heidi 	has 	Jim
+Mark 	has 	Lisa
+Amanda 	has 	Kim
+Rose 	has 	Marian
+Jason 	has 	Julie
+Julie 	has 	Amanda
+Ryan 	has 	Rose
+Gina 	has 	Mark
